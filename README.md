@@ -4,14 +4,14 @@
   <p align="center">
     
     
-<a href="#"><img title="LIZA MWOL" src="https://img.shields.io/badge/LIZA MWOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="LIZA MWOL" src="https://img.shields.io/badge/OVERDOZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href=https://github.com/Chunkindepadayali"><img title="Author" src="https://img.shields.io/badge/Author-(hunk!nd3 p4d4y41!-LIZAMWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href=https://github.com/OVERDOZ"><img title="Author" src="https://img.shields.io/badge/Author-(hunk!nd3 p4d4y41!-LIZAMWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Chunkindepadayali">LIZA MWOL</a> to make it public
+Project created by <a href="https://github.com/OVERDOZ">OVERDOZ</a> to make it public
     <br>
        | © |
         Reserved |
@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/Chunkindepadayali">LIZA MWOL</a> 
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chunkindepadayali/LIZA-MWOL) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OVERDOZ/LIZA-MWOL) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@chunkindepadayali/LizaMwol?v=1)
   
@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/Chunkindepadayali">LIZA MWOL</a> 
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Chunkindepadayali/LIZA-MWOL
+$ git clone https://github.com/overdoz/LIZA-MWOL
 $ cd LIZA-MWOL
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -41,7 +41,7 @@ $ node Liza.js
       
 ```js
 SETUP
-$ git clone https://github.com/Chunkindepadayali/LIZA-MWOL
+$ git clone https://github.com/overdoz/LIZA-MWOL
 $ cd LIZA-MWOL
 $ npm i
 $ node Liza.js
@@ -50,7 +50,7 @@ $ node Liza.js
 ----
 
   <p align="center">
-  <a href="https://github.com/Chunkindepadayali/LIZA-MWOL">
+  <a href="https://github.com/overdoz/LIZA-MWOL">
     
 <a href="https:https://github.com/Chunkindepadayali?tab=followers">
 <img src="https://img.shields.io/github/repo-size/Chunkindepadayali/LIZA-MWOL?color=green&label=Repo%20total%20size&style=plastic">
